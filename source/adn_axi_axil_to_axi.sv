@@ -11,7 +11,7 @@ The `adn_axi_axil_to_axi` module is designed to interface AXI4-Lite masters (suc
 | 1.0      | 2026-08-27 | Md. Sakib Hasan Shawon | Stable release                                         |
 
 Author : Md. Sakib Hasan Shawon (mdsakibhasanshawon20@gmail.com)
-This file is part of ADN-VLSI/adn_axi
+This file is part of adnsemicon/adn_axi
 Copyright (c) 2026 ADN Semiconductors
 Licensed under the MIT License
 See LICENSE file in the project root for full license information

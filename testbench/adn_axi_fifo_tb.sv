@@ -20,7 +20,7 @@
 | 1.1      | 2026-08-10 | Adnan Sami Anirban | Parameterized field widths, added TC_007-TC_010        |
 
 Author : Adnan Sami Anirban (adnananirban259@gmail.com)
-This file is part of ADN-VLSI/adn_axi
+This file is part of adnsemicon/adn_axi
 Copyright (c) 2026 ADN Semiconductors
 Licensed under the MIT License
 See LICENSE file in the project root for full license information

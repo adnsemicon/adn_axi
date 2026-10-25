@@ -12,7 +12,7 @@ This module is designed for systems where an AXI-Lite master (such as a CPU or D
 | 1.0      | YYYY-MM-DD | Md. Sakib Hasan Shawon | Stable release                                  |
 
 Author : Md. Sakib Hasan Shawon (mdsakibhasanshawon20@gmail.com)
-This file is part of ADN-VLSI/adn_axi
+This file is part of adnsemicon/adn_axi
 Copyright (c) 2026 ADN Semiconductors
 Licensed under the MIT License
 See LICENSE file in the project root for full license information

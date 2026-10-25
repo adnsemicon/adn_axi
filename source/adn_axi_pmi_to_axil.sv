@@ -13,7 +13,7 @@ The `adn_axi_pmi_to_axil` module is designed for SoC architectures where a proce
 | 1.2      | 2026-08-24 | Motasim Faiyaz | Uses pre-built subcomponents  utility                  |
 
 Author : Motasim Faiyaz (motasimfaiyaz@gmail.com)
-This file is part of ADN-VLSI/adn_axi
+This file is part of adnsemicon/adn_axi
 Copyright (c) 2026 ADN Semiconductors
 Licensed under the MIT License
 See LICENSE file in the project root for full license information

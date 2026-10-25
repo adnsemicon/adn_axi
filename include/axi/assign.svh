@@ -15,8 +15,8 @@ This file is primarily used in SystemVerilog testbenches or RTL integration laye
 | 0.1      | 2026-08-04 | Foez Ahmed      | Initial version                                        |
 
 Author : Foez Ahmed (foez.official@gmail.com)
-This file is part of ADN-VLSI/adn_axi
-Copyright (c) 2026 ADN-VLSI
+This file is part of adnsemicon/adn_axi
+Copyright (c) 2026 adnsemicon
 Licensed under the MIT License
 See LICENSE file in the project root for full license information
 

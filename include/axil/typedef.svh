@@ -1,7 +1,7 @@
 /*
 
 # Purpose
-This file provides a collection of SystemVerilog macros designed to standardize the definition of AXI4-Lite interface structures. It facilitates the generation of packed structs for address, write, read, and response channels, ensuring consistency across the ADN-VLSI/adn_axi project.
+This file provides a collection of SystemVerilog macros designed to standardize the definition of AXI4-Lite interface structures. It facilitates the generation of packed structs for address, write, read, and response channels, ensuring consistency across the adnsemicon/adn_axi project.
 
 ### Use Case
 This file is intended to be included in SystemVerilog design modules that require AXI4-Lite interfaces. By using the provided macros, developers can automatically generate consistent, packed struct definitions for AXI4-Lite channels based on configurable address and data widths. This reduces boilerplate code, minimizes manual errors in struct definitions, and ensures that all interface structures across the project adhere to the same naming and layout conventions.
@@ -11,8 +11,8 @@ This file is intended to be included in SystemVerilog design modules that requir
 | 0.1      | 2026-08-04 | Foez Ahmed      | Initial version                                        |
 
 Author : Foez Ahmed (foez.official@gmail.com)
-This file is part of ADN-VLSI/adn_axi
-Copyright (c) 2026 ADN-VLSI
+This file is part of adnsemicon/adn_axi
+Copyright (c) 2026 adnsemicon
 Licensed under the MIT License
 See LICENSE file in the project root for full license information
 

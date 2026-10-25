@@ -1,18 +1,18 @@
 /*
 
 ### Purpose
-This file defines a collection of SystemVerilog macros used to generate packed structures for AXI4 interface signals. It provides a standardized way to define AXI channel types (AW, W, B, AR, R) and combined request/response structures, ensuring consistency across the ADN-VLSI/adn_axi project.
+This file defines a collection of SystemVerilog macros used to generate packed structures for AXI4 interface signals. It provides a standardized way to define AXI channel types (AW, W, B, AR, R) and combined request/response structures, ensuring consistency across the adnsemicon/adn_axi project.
 
 ### Use Case
-This file serves as a centralized library for AXI4 interface definitions. By utilizing these macros, developers can instantiate standardized, packed SystemVerilog structures for AXI channels with configurable widths for IDs, addresses, data, and user signals. This ensures type safety and reduces boilerplate code when connecting AXI-compliant modules within the ADN-VLSI ecosystem.
+This file serves as a centralized library for AXI4 interface definitions. By utilizing these macros, developers can instantiate standardized, packed SystemVerilog structures for AXI channels with configurable widths for IDs, addresses, data, and user signals. This ensures type safety and reduces boilerplate code when connecting AXI-compliant modules within the adnsemicon ecosystem.
 
 | REVISION | DATE       | AUTHOR          | DESCRIPTION                                            |
 |----------|------------|-----------------|--------------------------------------------------------|
 | 0.1      | 2026-08-04 | Foez Ahmed      | Initial version                                        |
 
 Author : Foez Ahmed (foez.official@gmail.com)
-This file is part of ADN-VLSI/adn_axi
-Copyright (c) 2026 ADN-VLSI
+This file is part of adnsemicon/adn_axi
+Copyright (c) 2026 adnsemicon
 Licensed under the MIT License
 See LICENSE file in the project root for full license information
 
